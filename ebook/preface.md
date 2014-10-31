@@ -19,6 +19,9 @@
 
 ##Advancement (To Be Continue)
 
-* 1.深入Objective-C
-* 2.Clang & LLVM
+* 1.深入 Objective-C
+	- Objective-C 前生今世
+	- Objective-C 对象模型
+	- Objective-C 消息传递
+* 2.初探 Clang & LLVM
 * 3.Animation
