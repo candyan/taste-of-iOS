@@ -1,0 +1,20 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: Never
+
+---
+Language: Cpp
+# Force Cpp style
+ColumnLimit: 120
+IndentCaseLabels: true
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+SpaceBeforeParens: Always
+SpaceInEmptyParentheses: true
+PointerAlignment: Right
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+---
